@@ -191,3 +191,7 @@
 [2026-04-08 17:00:34,350]:INFO _client HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/refs%2Fpr%2F12/model.safetensors "HTTP/1.1 302 Found"
 [2026-04-08 17:01:45,108]:INFO _client HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
 [2026-04-08 17:01:45,160]:INFO _client HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/generation_config.json "HTTP/1.1 200 OK"
+[2026-04-08 19:14:31,281]:INFO common yaml file: config\config.yaml loaded and returned successfully
+[2026-04-08 19:14:31,750]:INFO common yaml file: params.yaml loaded and returned successfully
+[2026-04-08 19:14:31,804]:INFO common artifacts created successfully
+[2026-04-08 19:14:31,838]:INFO common artifacts/model_evaluation created successfully
