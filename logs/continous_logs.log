@@ -31,3 +31,60 @@
 [2026-04-08 12:16:19,747]:INFO common artifacts/data_ingestion created successfully
 [2026-04-08 12:16:19,748]:INFO data_ingestion File already exists
 [2026-04-08 12:16:20,620]:INFO main Data Ingestion Stage completed
+[2026-04-08 13:03:55,655]:INFO common yaml file: config\config.yaml loaded and returned successfully
+[2026-04-08 13:03:55,719]:INFO common yaml file: params.yaml loaded and returned successfully
+[2026-04-08 13:03:55,733]:INFO common artifacts created successfully
+[2026-04-08 13:03:55,749]:INFO common artifacts/data_transformation created successfully
+[2026-04-08 13:04:46,162]:INFO common yaml file: config\config.yaml loaded and returned successfully
+[2026-04-08 13:04:46,168]:INFO common yaml file: params.yaml loaded and returned successfully
+[2026-04-08 13:04:46,172]:INFO common artifacts created successfully
+[2026-04-08 13:04:46,175]:INFO common artifacts/data_transformation created successfully
+[2026-04-08 13:06:12,745]:INFO common yaml file: config\config.yaml loaded and returned successfully
+[2026-04-08 13:06:12,751]:INFO common yaml file: params.yaml loaded and returned successfully
+[2026-04-08 13:06:12,757]:INFO common artifacts created successfully
+[2026-04-08 13:06:12,760]:INFO common artifacts/data_transformation created successfully
+[2026-04-08 13:06:24,867]:INFO _client HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-08 13:06:24,915]:INFO _client HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/config.json "HTTP/1.1 200 OK"
+[2026-04-08 13:06:25,066]:INFO _client HTTP Request: GET https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/config.json "HTTP/1.1 200 OK"
+[2026-04-08 13:06:27,841]:INFO _client HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-08 13:06:27,900]:INFO _client HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/tokenizer_config.json "HTTP/1.1 200 OK"
+[2026-04-08 13:06:27,980]:INFO _client HTTP Request: GET https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/tokenizer_config.json "HTTP/1.1 200 OK"
+[2026-04-08 13:08:28,446]:INFO _client HTTP Request: GET https://huggingface.co/api/models/google/pegasus-cnn_dailymail/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 504 Gateway Time-out"
+[2026-04-08 13:08:28,876]:INFO _client HTTP Request: GET https://huggingface.co/api/models/google/pegasus-cnn_dailymail/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+[2026-04-08 13:08:29,208]:INFO _client HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/spiece.model "HTTP/1.1 307 Temporary Redirect"
+[2026-04-08 13:08:29,269]:INFO _client HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/spiece.model "HTTP/1.1 200 OK"
+[2026-04-08 13:08:29,413]:INFO _client HTTP Request: GET https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/spiece.model "HTTP/1.1 200 OK"
+[2026-04-08 13:08:30,410]:INFO _client HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/tokenizer.json "HTTP/1.1 404 Not Found"
+[2026-04-08 13:08:30,710]:INFO _client HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/added_tokens.json "HTTP/1.1 404 Not Found"
+[2026-04-08 13:08:30,714]:WARNING _http Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[2026-04-08 13:08:31,020]:INFO _client HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/special_tokens_map.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-08 13:08:31,065]:INFO _client HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/special_tokens_map.json "HTTP/1.1 200 OK"
+[2026-04-08 13:08:31,135]:INFO _client HTTP Request: GET https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/special_tokens_map.json "HTTP/1.1 200 OK"
+[2026-04-08 13:08:31,532]:INFO _client HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+[2026-04-08 13:21:44,742]:INFO main Data Ingestion Stage initiated
+[2026-04-08 13:21:44,757]:INFO common yaml file: config\config.yaml loaded and returned successfully
+[2026-04-08 13:21:44,761]:INFO common yaml file: params.yaml loaded and returned successfully
+[2026-04-08 13:21:44,762]:INFO common artifacts created successfully
+[2026-04-08 13:21:44,763]:INFO common artifacts/data_ingestion created successfully
+[2026-04-08 13:21:44,763]:INFO data_ingestion File already exists
+[2026-04-08 13:21:45,039]:INFO main Data Ingestion Stage completed
+[2026-04-08 13:21:45,040]:INFO main Data Transformation Stage initiated
+[2026-04-08 13:23:26,499]:INFO main Data Ingestion Stage initiated
+[2026-04-08 13:23:26,502]:INFO common yaml file: config\config.yaml loaded and returned successfully
+[2026-04-08 13:23:26,506]:INFO common yaml file: params.yaml loaded and returned successfully
+[2026-04-08 13:23:26,508]:INFO common artifacts created successfully
+[2026-04-08 13:23:26,509]:INFO common artifacts/data_ingestion created successfully
+[2026-04-08 13:23:26,510]:INFO data_ingestion File already exists
+[2026-04-08 13:23:26,746]:INFO main Data Ingestion Stage completed
+[2026-04-08 13:23:26,747]:INFO main Data Transformation Stage initiated
+[2026-04-08 13:23:26,749]:INFO common yaml file: config\config.yaml loaded and returned successfully
+[2026-04-08 13:23:26,750]:INFO common yaml file: params.yaml loaded and returned successfully
+[2026-04-08 13:23:26,750]:INFO common artifacts created successfully
+[2026-04-08 13:23:26,751]:INFO common artifacts/data_transformation created successfully
+[2026-04-08 13:23:27,203]:INFO _client HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-08 13:23:27,232]:INFO _client HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/config.json "HTTP/1.1 200 OK"
+[2026-04-08 13:23:27,521]:INFO _client HTTP Request: HEAD https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-04-08 13:23:27,549]:INFO _client HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/pegasus-cnn_dailymail/40d588fdab0cc077b80d950b300bf66ad3c75b92/tokenizer_config.json "HTTP/1.1 200 OK"
+[2026-04-08 13:23:27,814]:INFO _client HTTP Request: GET https://huggingface.co/api/models/google/pegasus-cnn_dailymail/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+[2026-04-08 13:23:28,069]:INFO _client HTTP Request: GET https://huggingface.co/api/models/google/pegasus-cnn_dailymail/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+[2026-04-08 13:23:38,192]:INFO main Data Transformation Stage completed
