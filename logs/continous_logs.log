@@ -1,1 +1,33 @@
 [2026-04-07 13:04:56,648]:INFO main Hello World
+[2026-04-07 19:46:15,497]:INFO common yaml file: config\config.yaml loaded and returned successfully
+[2026-04-07 19:46:15,503]:INFO common yaml file: params.yaml loaded and returned successfully
+[2026-04-07 19:46:18,839]:INFO common yaml file: config\config.yaml loaded and returned successfully
+[2026-04-07 19:46:18,841]:INFO common yaml file: params.yaml loaded and returned successfully
+[2026-04-07 19:47:52,393]:INFO common yaml file: config\config.yaml loaded and returned successfully
+[2026-04-07 19:47:52,396]:INFO common yaml file: params.yaml loaded and returned successfully
+[2026-04-07 19:47:52,401]:INFO common artifacts created successfully
+[2026-04-07 19:47:52,404]:INFO common artifacts/data_ingestion created successfully
+[2026-04-07 19:48:43,207]:INFO common yaml file: config\config.yaml loaded and returned successfully
+[2026-04-07 19:48:43,210]:INFO common yaml file: params.yaml loaded and returned successfully
+[2026-04-07 19:48:43,212]:INFO common artifacts created successfully
+[2026-04-07 19:48:43,214]:INFO common artifacts/data_ingestion created successfully
+[2026-04-07 19:49:22,982]:INFO common yaml file: config\config.yaml loaded and returned successfully
+[2026-04-07 19:49:22,986]:INFO common yaml file: params.yaml loaded and returned successfully
+[2026-04-07 19:49:22,988]:INFO common artifacts created successfully
+[2026-04-07 19:49:22,989]:INFO common artifacts/data_ingestion created successfully
+[2026-04-07 19:49:48,037]:INFO common yaml file: config\config.yaml loaded and returned successfully
+[2026-04-07 19:49:48,039]:INFO common yaml file: params.yaml loaded and returned successfully
+[2026-04-07 19:49:48,041]:INFO common artifacts created successfully
+[2026-04-07 19:49:48,043]:INFO common artifacts/data_ingestion created successfully
+[2026-04-07 19:50:03,738]:INFO common yaml file: config\config.yaml loaded and returned successfully
+[2026-04-07 19:50:03,740]:INFO common yaml file: params.yaml loaded and returned successfully
+[2026-04-07 19:50:03,743]:INFO common artifacts created successfully
+[2026-04-07 19:50:03,744]:INFO common artifacts/data_ingestion created successfully
+[2026-04-07 19:50:09,188]:INFO 324298746 File is downloaded
+[2026-04-08 12:16:19,739]:INFO main Data Ingestion Stage initiated
+[2026-04-08 12:16:19,742]:INFO common yaml file: config\config.yaml loaded and returned successfully
+[2026-04-08 12:16:19,746]:INFO common yaml file: params.yaml loaded and returned successfully
+[2026-04-08 12:16:19,747]:INFO common artifacts created successfully
+[2026-04-08 12:16:19,747]:INFO common artifacts/data_ingestion created successfully
+[2026-04-08 12:16:19,748]:INFO data_ingestion File already exists
+[2026-04-08 12:16:20,620]:INFO main Data Ingestion Stage completed
